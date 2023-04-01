@@ -1,0 +1,11 @@
+title,count,price,city,received
+морковь,3,7,spb,true
+тыква,1,24,spb,false
+очки,1,9800,msc,false
+шляпа,24,1300,msc,true
+перчатки,13,50,spb,true
+книга,2,1500,spb,true
+наушники,100,800,spb,false
+приставка,1,56000,msc,true
+приставка,2,56000,spb,true
+телевизор,1,113000,spb,true
